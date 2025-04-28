@@ -1,3 +1,3 @@
 # New-Student-Wiki
 
-> **Looking for the full Wiki? [Click here to go to the Wiki!](../../wiki/New‐Student‐Wiki‐Homepage)**
+> **Looking for the full Wiki? [Click here!](../../wiki/New‐Student‐Wiki‐Homepage)**
