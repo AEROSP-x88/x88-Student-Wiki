@@ -2,4 +2,5 @@
 
 > **Looking for the full Wiki? [Click here](../../wiki/Home) or naviagate to the Wiki Tab on the top ribbon!**
 
-![Wiki-Photo](https://github.com/user-attachments/assets/56534d45-57bd-4346-b639-360fa1ed40a4)
+<img width="502" height="603" alt="Screenshot 2025-04-28 at 1 16 47 PM" src="https://github.com/user-attachments/assets/1a983834-4606-4563-b833-785174e5df79" />
+
